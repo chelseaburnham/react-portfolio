@@ -1,6 +1,6 @@
 import React from "react";
 
-function header() {
+function Header() {
   return (
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <a class="navbar-brand" href="#">
@@ -45,4 +45,4 @@ function header() {
   );
 }
 
-export { header };
+export { Header };
